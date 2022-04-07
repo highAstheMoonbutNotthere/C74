@@ -1,0 +1,18 @@
+.body{
+    text-align: center;
+}
+.asdf{
+    text-align: center;
+    font-size: 25px;
+}
+.my_nav_bar{
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+html{
+    text-align: center;
+}
+#contact1 h3{
+    display: inline;
+}
